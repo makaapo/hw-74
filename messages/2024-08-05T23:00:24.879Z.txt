@@ -1,0 +1,4 @@
+{
+  "message": "Hello world",
+  "date": "2024-08-05T23:00:24.879Z"
+}
